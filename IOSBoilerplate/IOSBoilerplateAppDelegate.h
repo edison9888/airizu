@@ -1,7 +1,7 @@
 
 #import <UIKit/UIKit.h>
  
-// main
+
 @interface IOSBoilerplateAppDelegate : Activity <UIApplicationDelegate, UIAlertViewDelegate> {
   
 }
